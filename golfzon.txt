@@ -5,3 +5,4 @@ remote_1 local_1 remote_2
 master_2
 
 revert_add1
+revert_add2
