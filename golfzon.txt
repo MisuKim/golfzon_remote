@@ -8,3 +8,5 @@ reset_1
 
 remote_3
 local_3
+master_1
+master_2
