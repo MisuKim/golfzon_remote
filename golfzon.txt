@@ -16,3 +16,4 @@ hotfix_4
 remote_5
 local_5
 revert_1
+revert_2
